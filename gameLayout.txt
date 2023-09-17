@@ -1,0 +1,22 @@
+OOP Game Layout
+
+- 2 player game
+	- one player is the user
+	- second player is the computer
+
+Player Class:
+- Name
+- HP (health points)
+- Attack power
+- EP (Elemental points)
+- Elemental power
+-Defense power
+
+Fight Mechanics:
+- Basic attack
+- Elemental attack
+- Defend
+- Escape fight (random chance at successfully escaping the fight)
+
+How to win:
+- Player wins once the opposing player's health is 0
